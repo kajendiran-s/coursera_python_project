@@ -1,1 +1,1 @@
-# coursera_pytthon_project
+# coursera_python_project
